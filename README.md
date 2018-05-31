@@ -1,5 +1,5 @@
 # raspberry-pi
-UBports Raspberry Pi Focus Group
+UBports Raspberry Pi Focus Group. Join the discussion on [our forum](https://forums.ubports.com/category/43/ut-for-raspberry-pi) and our [Telegram focus group](https://t.me/UBports_pi).
 
 ## Goals
 ### Desktop
@@ -41,10 +41,10 @@ Android-devices and which are by design?
 * How does the variable size of SD cards in a Raspberry Pi affect installation and update
 concept?
 ## Team
-* @jonny aka Jonatan Hatakeyama Zeidler (Admin, Project Manager, Developer)
-* @Stereofont aka Lionelb (Admin, Moderator)
-* @Stason888 aka Seven (Admin, Developer, is already building his own Raspy-Phone)
-* Already 49 members in the telegram group
+* @jonny aka Jonatan Hatakeyama Zeidler (Moderator, Developer)
+* @Stereofont aka Lionelb (Moderator)
+* @Stason888 aka Seven (Moderator, Developer, is already building his own Raspy-Phone)
+* Many members in the telegram focus group
   * many of them seem to have Raspberry Pis
   * some already share ideas on the concept
   * we have no idea yet, who is going to really contribute
