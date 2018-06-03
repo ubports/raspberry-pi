@@ -40,6 +40,7 @@ Android-devices and which are by design?
 * How to handle the different Raspberry Pi Models?
 * How does the variable size of SD cards in a Raspberry Pi affect installation and update
 concept?
+* How does the architecture aarch64 us? 
 ## Team
 * @jonny aka Jonatan Hatakeyama Zeidler (Moderator, Developer)
 * @Stereofont aka Lionelb (Moderator)
