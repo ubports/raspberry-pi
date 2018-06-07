@@ -54,7 +54,6 @@ concept?
 ## FAQ
 ### Why don't you use Android?
 Short answer: because its a pain and ugly, should ba avoided and we don't need it on the RaspberryPi. ;-)
-
 Long answer: What is the Android layer used by Ubuntu Touch? It's an extremely minimal Android container, which ideally contains only the bits providing hardware enablement (kernel with driver modules, and nothing such as GUIs, app runtimes and libraries...).
 This function (hardware enablement, that is the ability of the operating system to detect and use the hardware) is provided ususally by the mainline Linux kernel (on desktop computers, laptops, servers...). But in the case of Android devices, the mainline kernel usually doesn't have the hardware enablement features for the device, so we are forced to use the kernel of the Android image, which has been adapted by the vendors to work on the device. But even using the Android kernel instead of the mainline kernel is not enough, since some driver modules are not in the kernel, but in the Android userspace (e.g. GPU, camera), the so-called *blobs*; since they are not part of the kernel they can be closed-sourced.
 It's for this reason that we create a very minimal Android container, just to get hardware enablement with the kernel and the blobs, but ideally nothing more. I say ideally because being Android build process so complex, something unneeded may slip in the container anyway.
