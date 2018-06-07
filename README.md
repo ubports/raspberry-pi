@@ -1,6 +1,12 @@
 # raspberry-pi
 UBports Raspberry Pi Focus Group. Join the discussion on [our forum](https://forums.ubports.com/category/43/ut-for-raspberry-pi) and our [Telegram focus group](https://t.me/UBports_pi).
 
+## Contents
+1. [Goals](#goals)
+2. [Benfits](#benefits)
+3. [Conceptional Questions](#conceptional)
+4. [Team](#team)
+
 ## Goals
 ### Desktop
 * Have Ubuntu 16.04 with Unity8 running on a Raspberry Pi
