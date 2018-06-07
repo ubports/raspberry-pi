@@ -4,7 +4,7 @@ UBports Raspberry Pi Focus Group. Join the discussion on [our forum](https://for
 ## Contents
 1. [Goals](#goals)
 2. [Benfits](#benefits)
-3. [Conceptional Questions](#conceptional)
+3. [Conceptional Questions](#conceptional questions)
 4. [Team](#team)
 
 ## Goals
